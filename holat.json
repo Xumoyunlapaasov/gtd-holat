@@ -1,7 +1,7 @@
 {
  "v": 1,
  "holat": {
-  "chiqarildi": "2026-10-27 20:21:05",
+  "chiqarildi": "2026-10-27 20:21:54",
   "amal_kun": 120,
   "oflayn_kun": 14,
   "aloqa": "+998941419904",
@@ -27,8 +27,12 @@
     "faol": true,
     "stir": "307488614",
     "qurilma_majburiy": true
+   },
+   "LIC-261027-9740": {
+    "gacha": "2027-04-27",
+    "faol": true
    }
   }
  },
- "imzo": "PvbsIxtl6b/wHwrQ6pVmSqHCGc3DCanGgnyLCPYfoNsya5URgvMnZxFpFz2YllmWTf+/+vFnEvneAgGRHHk6VdwsnyTTA7zXvLrJkG4XCpHkLLwSMqu3UX3HiXXENFWdC6Q3tYNArscVc2QejXqKbJ1k/cWWM/+OShGmB6jD/2cRxIxRMqglcUHHtbbhs117xqXP2CwbkKmoD8ybZ0que118XexmkTTglihcvPlRZaixeO9CK5EKVUs4TqkSadbFGwoT9z/Cp0Dwk/5uDobwRc5oTgOiTXQqhqtI5CwJ7EwtsUxDsiw0ecxBqz5zrV340cK9NTQuZGZVLRx+mO33XQ=="
+ "imzo": "pDB+/gdAEHtO3QFfad7CAgmSfx/gL0CaslPKNZjuz81KLNXveEmYl8UjOvJQKmXJh4OQRi0R8ujgU/kJXiq8MJQWIGAtdNXRACYNkQqK5YTpIEfOBJ+ID6poYcRRAsq5UK8X2hIHZKrhyLhbNMtyw3I0eSVIafKSHU0eBVNKifMw18mFXE7aG6V4tdWWbP9n8mNTiewQ+dDTqdbDlXFGAIjJTIydj8KflFJvB1vMypJj+LeKqcgwcviGLQ2kj+LJW9unnqRWyu8OlaShmjZKFHNgeKL9lN1WR+P/6PC5A1Ungbqh3HCtai6MjaGfo5KIrqsVHAzOGpahS0ffHDDbZQ=="
 }
