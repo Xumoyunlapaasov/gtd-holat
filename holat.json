@@ -1,52 +1,16 @@
 {
  "v": 1,
  "holat": {
-  "chiqarildi": "2026-10-27 17:48:39",
+  "chiqarildi": "2026-10-27 17:54:58",
   "amal_kun": 120,
   "oflayn_kun": 14,
   "aloqa": "+998941419904",
   "litsenziyalar": {
-   "LIC-260920-5A4B": {
-    "gacha": "2026-10-20",
-    "faol": true
-   },
-   "LIC-260928-36F5": {
-    "gacha": "2027-04-12",
-    "faol": true
-   },
-   "LIC-260928-F198": {
-    "gacha": "2026-10-28",
-    "faol": true
-   },
-   "LIC-260928-99C8": {
-    "gacha": "2026-11-29",
-    "faol": true
-   },
-   "LIC-261010-54CA": {
-    "gacha": "2027-04-10",
-    "faol": true
-   },
-   "LIC-261027-95CE": {
-    "gacha": "2026-12-31",
-    "faol": true
-   },
-   "LIC-261027-A464": {
-    "gacha": "2026-12-31",
-    "faol": true
-   },
-   "LIC-261027-9BDC": {
-    "gacha": "2026-11-30",
-    "faol": true
-   },
-   "LIC-261027-CC6D": {
-    "gacha": "2027-04-27",
-    "faol": true
-   },
-   "LIC-261027-1F4D": {
+   "LIC-261027-0900": {
     "gacha": "2027-04-27",
     "faol": true
    }
   }
  },
- "imzo": "GNYr4S7fozCIzxLyMtdLmm1J+m5NTBzE4vEQiNpDtibhI8N2CobjUf2uZHonWm39CqXpHTeNDG3VRbclDxIUaH401Xrh0L3qE1XjGuNcz4sUSFgDMzX5j1wZCa8Uve9Elus0343EZvJzjd0xTYcElbFNocN2EYSYDPtyvdNX7WO+iMDbpeLyW2b7nWQ9Uvzdg24DJC1x1Fr4IwRMfPLJN/m8XMcSJjiXy8+aDHkEwBeb7Zp6QPl0WVdbCRzE/jgW6xA+fJEhGa0U9MEtTSxFeufW/rHfCWdGzlUS8T1YfnceLb1eVQpMKUqQcW9Q54H4GRv5jDfGuYVheDuTwyL+KQ=="
+ "imzo": "IdeYKbMzEuuZ9jD9kEpcAJTvwnCEkrBXKxwNTz0Es4MbjI0Ju1LuiTSW2Tbg1PvOqkHZ56PY9mVE9Wb1GQmFBNGbVXVk/tDZZRe5H5W+y44tfATVO+6Dh1R0ynSm94y0THU2t08oMFpGmkLBIv7dqKMKKHs5VzwgplzfziJq+zKdKs9cKq+LQr8/0fG1oOSk4wqNGcBGxUm9Wsk7+dfTKSo3iX3sINThlZ8aWV5U34wbRG4QiW8eWMCjom8wQK+sKb+mxkvpChme32VOdTEW/BV3X8vXAOhDtprWnnmaQh0DBOIv7FkMs0Rbz2jTwTN0QblhrWldRoSyiKozlRSIsw=="
 }
