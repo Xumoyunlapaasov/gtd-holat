@@ -1,7 +1,7 @@
 {
  "v": 1,
  "holat": {
-  "chiqarildi": "2026-10-27 17:41:01",
+  "chiqarildi": "2026-10-27 17:41:52",
   "amal_kun": 120,
   "oflayn_kun": 14,
   "aloqa": "+998941419904",
@@ -36,10 +36,9 @@
    },
    "LIC-261027-9BDC": {
     "gacha": "2026-11-30",
-    "faol": false,
-    "xabar": "Litsenziya to'xtatilgan. Dastur egasiga murojaat qiling."
+    "faol": true
    }
   }
  },
- "imzo": "jGAJ22v4vl/finAiJhe8zEpEk9DhfDg7un6A9hFeQWz1vYAauyoBQXM3tlQzXvErueKJVHbwKwLvL8KxDgVdn/zuoAvRdfVkehf+iX5kkNR137Sn4+8B+a1yGQ4yjqB6nu4pfleEBY8dgu8p/50dJVT7nhxWZVmwZeNQYV4TmpG/kVdkwSCu4oOLp7qGi3dLsULRFmP6yw4Xsl5fth9IFP4UNSWo7IG/Gc0uHRpumVfymkqoEkW+PJwOSRydaweh8JVli/UJ4owGhelBnYp9/2bhyQO7mOf3TadDJ3j8H74Xlnnm1Qru2HB7/bMw7QABlP7tV+01xy0jlCothEnGcA=="
+ "imzo": "M0RmqbH9zOOKT3oTKWcMY//ACIGVDqb78nIkCo++KDqPn56uNlEBpYPy4Lmf5ViElUo5/PXy++HyN9Ev4CpiIdzs/SJceaCkpq1XEAgDJT30ueqXQMps0TL702LSBjRwMESSJOMcFKkqzhUTLWOBU6T6mkHWuU4Yj3Sw8CW50JhpnFOxq418gNdR1w6AkPRhBsad/BK0yqsm+ov0X/ROeEPBvMMMFhdr0WT9vvVlOZV4O3IPhA2HNo6a+BYVyy9M4lyio1yR+9F5K/xEiy0RXPD8W9EkvDvjyoID+LiA1uTePkm8C0LKi2KbwHYmpGa40kSRE78LdoqdnlWJWW5dvQ=="
 }
