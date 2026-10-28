@@ -1,7 +1,7 @@
 {
  "v": 1,
  "holat": {
-  "chiqarildi": "2026-10-28 12:24:03",
+  "chiqarildi": "2026-10-28 12:24:06",
   "amal_kun": 120,
   "oflayn_kun": 14,
   "aloqa": "+998941419904",
@@ -62,8 +62,14 @@
     "faol": true,
     "tur": "cheksiz",
     "limit": 3
+   },
+   "LIC-261028-A3E3": {
+    "gacha": "2026-10-31",
+    "faol": true,
+    "tur": "cheksiz",
+    "limit": 3
    }
   }
  },
- "imzo": "TCdWi7sDj8Fy5XADLj/fg9DXUjWL66cHA4A9Xjdggen45ZEcI6EEjMAl3Ic1mpk7bZv26dHaqwVtThk0n9I0wJCE6bugJAibbJalY80z5JAJ4bXA6QC0UmzDocvrSY86dgE43r4eZH/KduyjfBA43OkuOK3FU9/qfbOPRbydTvTN6Tp+6DE9Xz460RyC9z57Oy+qfB57/6tzjAlDIxgzGCGQ0o6u/ZBG6/UfEYuQY9t7KwfTjTOJG2P6sqOd95P0KuT9+tHwSEEcSLctH1CjH4IzjxugwSQve9VWJkvPnvdjPG6RwKXniFK7AmAPJH7651ZdeRzpr+XrG2/0Z7nhzQ=="
+ "imzo": "MhmijfkRNLJT0Wee6a8T7/Er/toW9s52W3Fq08/H2blKe101tPOMR/6uUe/pkR7eKLRf/5YwHUTEHSs8KVobptBKB+duLZZwtiEoI0NjoFUPS9WTLrGv6/jL2wZ7uh/C48xcn9uQce1LeIb2grxGpNupedEtnBeXN5IEh2Wn1Hxf+foArPlNx2kZM8gozgAo26eWBqKhKphYr39MfrdIXGv7b5sJ4LU/RwpZ+maCyuRGiU8h4/JiQeRJJcxF2mlV5PMdCSsgqOTuaxb6MK5bbIZ8fAszvsiA6pYLcHumtxiKM/XZIio1Oq/jbLTlEYQHsfoeuwimaLZec87FIjSMBw=="
 }
